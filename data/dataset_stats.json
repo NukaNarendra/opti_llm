@@ -1,0 +1,30 @@
+{
+    "total_samples": 25827,
+    "ticker_distribution": {
+        "WMT": 1157,
+        "PG": 887,
+        "META": 2042,
+        "TSLA": 1173,
+        "HD": 867,
+        "CSCO": 1656,
+        "GOOGL": 1123,
+        "JNJ": 1373,
+        "XOM": 943,
+        "NFLX": 829,
+        "NVDA": 1164,
+        "V": 868,
+        "UNH": 843,
+        "INTC": 1466,
+        "AAPL": 507,
+        "AMZN": 1193,
+        "MA": 1349,
+        "MSFT": 1902,
+        "JPM": 2591,
+        "BAC": 1894
+    },
+    "section_distribution": {
+        "general_narrative": 25164,
+        "risk_factors": 658,
+        "market_risk": 5
+    }
+}
